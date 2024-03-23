@@ -1,0 +1,22 @@
+{
+  "name": "cli-jd-number-guess",
+  "version": "2.0.4",
+  "description": "Simple Number Guessing",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "cli-jd-number-guess01": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jawad-nasir",
+  "license": "",
+  "dependencies": {
+    "cli-jd-number-guess01": "^2.0.2",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
